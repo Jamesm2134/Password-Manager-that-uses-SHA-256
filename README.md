@@ -11,6 +11,7 @@ passwords.
 
 Functions:
 Program will not have UI/GUI. It will be based in the terminal
+- C#
 - User enters password
 - Program stores password
 - User given masterkey
