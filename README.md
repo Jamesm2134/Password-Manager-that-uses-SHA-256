@@ -7,11 +7,10 @@ is only accessible via a master password. SHA-256 (Secure Hash Algorithm 256-bit
 cryptographic hash function that creates a unique, irreversible 256-bit hash value from any length
 of input data. The program will store the user info in the code and only give the user its
 passwords back if it presents the correct masterkey given to them at the time of entering the
-passwords.
+passwords. Will be coded in C#
 
 Functions:
 Program will not have UI/GUI. It will be based in the terminal
-- C#
 - User enters password
 - Program stores password
 - User given masterkey
