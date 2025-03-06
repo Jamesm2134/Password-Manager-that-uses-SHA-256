@@ -11,7 +11,7 @@ passwords.
 
 Functions:
 Program will not have UI/GUI. It will be based in the terminal
-● User enters password
-● Program stores password
-● User given masterkey
-● Program only releases passwords if correct masterkey is entered into terminal
+- User enters password
+- Program stores password
+- User given masterkey
+- Program only releases passwords if correct masterkey is entered into terminal
